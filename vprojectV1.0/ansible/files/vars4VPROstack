@@ -1,0 +1,10 @@
+# BEGIN ANSIBLE MANAGED BLOCK
+region: "us-west-1"
+vprostackvpcID: vpc-6e2b7609
+vpropub1net: subnet-71ebb12a
+vpropub2net: subnet-ae7f76c9
+vpropriv1net: subnet-9eebb1c5
+vpropriv2net: subnet-d37178b4
+vproSGID: sg-5294db2a
+vproELBSGID: sg-1d93dc65
+# END ANSIBLE MANAGED BLOCK

@@ -1,0 +1,12 @@
+# Variables for VPC SETUP
+region: us-west-1
+zone1: us-west-1a
+zone2: us-west-1b
+vpro_cidr: 172.20.0.0/16
+jump_cidr: 192.168.1.0/24
+linux_jump_ami: ami-8d948ced
+win_jump_ami: ami-b236d2d1
+vpro_pub1_cidr: 172.20.1.0/24
+vpro_pub2_cidr: 172.20.2.0/24
+vpro_priv1_cidr: 172.20.3.0/24
+vpro_priv2_cidr: 172.20.4.0/24
